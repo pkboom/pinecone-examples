@@ -6,7 +6,7 @@
 
 ```sh
 pip install python-dotenv ipykernel
-pip install -qU langchain openai datasets pinecone-client tiktoken ipywidgets
+pip install -qU langchain openai datasets pinecone-client tiktoken ipywidgets langchain-pinecone
 ```
 
 # Pinecone Examples
